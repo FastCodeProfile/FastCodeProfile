@@ -2,10 +2,14 @@
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
 </div>
 <br><br>
+
 <div id="main" align="center">
     <div>
-        <img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=FastCodeProfile&theme&layout=compact&theme=vision-friendly-dark">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FastCodeProfile&theme&layout=compact&theme=vision-friendly-dark">
+    </div>
+    <br><br>
+    <div>
+        <img src="https://www.codewars.com/users/%D0%9F%D1%80%D0%BE%D1%84%D0%B8%D0%BB%20FastCode/badges/large">
     </div>
     <br><br>
     <picture>
