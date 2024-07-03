@@ -5,23 +5,23 @@
 
 <div id="main" align="center">
     <div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FastCodeProfile&theme&layout=compact&theme=vision-friendly-dark">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProFastCode&theme&layout=compact&theme=vision-friendly-dark">
     </div>
     <br><br>
     <div>
-        <img src="https://www.codewars.com/users/%D0%9F%D1%80%D0%BE%D1%84%D0%B8%D0%BB%20FastCode/badges/large">
+        <img src="https://www.codewars.com/users/ProFastCode/badges/large">
     </div>
     <br><br>
     <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api?username=FastCodeProfile&show_icons=true&theme=dark"
+        <source srcset="https://github-readme-stats.vercel.app/api?username=ProFastCode&show_icons=true&theme=dark"
             media="(prefers-color-scheme: dark)" />
-        <source srcset="https://github-readme-stats.vercel.app/api?username=FastCodeProfile&show_icons=true"
+        <source srcset="https://github-readme-stats.vercel.app/api?username=ProFastCode&show_icons=true"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-readme-stats.vercel.app/api?username=FastCodeProfile&show_icons=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=ProFastCode&show_icons=true" />
     </picture>
     <br><br><br>
     <div>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=FastCodeProfile&theme=dark&background=000000">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProFastCode&theme=dark&background=000000">
     </div>
 </div>
 <br><br>
