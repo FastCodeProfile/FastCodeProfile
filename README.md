@@ -1,30 +1,37 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
 </div>
-<br><br>
+
+<br>
 
 <div id="main" align="center">
     <div>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProFastCode&theme&layout=compact&theme=vision-friendly-dark">
     </div>
-    <br><br>
+    <br>
     <div>
         <img src="https://www.codewars.com/users/ProFastCode/badges/large">
     </div>
-    <br><br>
+    <br>
     <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api?username=ProFastCode&show_icons=true&theme=dark"
-            media="(prefers-color-scheme: dark)" />
+        <source srcset="https://github-readme-stats.vercel.app/api?username=ProFastCode&show_icons=true&theme=white"
+            media="(prefers-color-scheme: white)" />
         <source srcset="https://github-readme-stats.vercel.app/api?username=ProFastCode&show_icons=true"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img src="https://github-readme-stats.vercel.app/api?username=ProFastCode&show_icons=true" />
     </picture>
-    <br><br><br>
+    <br><br>
     <div>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProFastCode&theme=dark&background=000000">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProFastCode&theme=white&background=white">
+    </div>
+    <br>
+    <div>
+        <img src="https://leetcard.jacoblin.cool/fast_code_profile?theme=light"/>
     </div>
 </div>
-<br><br>
+
+<br>
+
 <div id="footer" align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"
         alt="Python" width="40" height="40" />&nbsp;
@@ -58,4 +65,8 @@
         alt="Pandas" width="40" height="40" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git"
         width="40" height="40" />
+</div>
+<br>
+<div id="footer" align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=ProFastCode&theme=onedark"/>
 </div>
